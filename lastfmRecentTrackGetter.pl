@@ -3,7 +3,7 @@
 use Net::LastFMAPI;
 use XML::Smart;
 
-print "Basic Script to get loved tracks from Last.FM\n";
+print "Basic Script to get recent tracks from Last.FM\n";
 print "-----------------------------------\n";
 print "Enter LastFM user name: ";
 $user = <STDIN>;
